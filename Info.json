@@ -5,7 +5,9 @@
   "Author": "Lilith The Dark Witch",
   "ManagerVersion": "0.27.3",
   "Requirements": [
-    "DVCarChanger"
+    "DVCarChanger", "SkinManagerMod"
   ],
-  "LoadAfter": []
+  "LoadAfter": [],
+  "HomePage": "https://www.nexusmods.com/games/derailvalley/mods/1843",
+  "Repository": "https://github.com/Lilith-The-Dark-Witch/Clean-DB-Locomotives"
 }
