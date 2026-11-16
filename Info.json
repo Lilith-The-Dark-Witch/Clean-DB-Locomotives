@@ -1,0 +1,11 @@
+{
+  "Id": "Clean_DB_locomotives ",
+  "DisplayName": "Clean DB locomotives ",
+  "Version": "0.0.1",
+  "Author": "Lilith The Dark Witch",
+  "ManagerVersion": "0.27.3",
+  "Requirements": [
+    "DVCarChanger"
+  ],
+  "LoadAfter": []
+}
